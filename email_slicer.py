@@ -5,3 +5,6 @@ def email_slicer(email):
     return ('name: ',name, 'domain: ',domain, 'extension:',extension)
 email = input()
 print(email_slicer(email))
+
+
+"THis is for sample testing"
